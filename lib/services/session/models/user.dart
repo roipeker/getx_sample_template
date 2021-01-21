@@ -37,8 +37,8 @@ class UserModel {
   UserModel.mockup()
       : name = 'roi',
         lastname = 'peker',
-        phone = '123',
-        id = '123123',
+        phone = '+1 484-563-1664',
+        id = '444555666',
         enabled = true,
         isSeller = true,
         email = 'roipeker@graphx.com',

@@ -1,11 +1,11 @@
 {
-    "name": "getx_app_template",
-    "short_name": "getx_app_template",
+    "name": "GetX App Template Reference",
+    "short_name": "App Template",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "GetX template project reference.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

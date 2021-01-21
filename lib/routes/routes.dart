@@ -18,7 +18,7 @@ abstract class Routes {
 }
 
 abstract class AppPages {
-  static String initial = Routes.ROOT;
+  static String initial = Routes.SPLASH;
 
   static final routes = [
     GetPage(

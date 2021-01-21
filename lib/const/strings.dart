@@ -1,10 +1,10 @@
 import 'dart:ui';
 
 abstract class AppStrings {
-  static String appVersion = '1.0.0';
+  static String appVersion = '1.0.0+1';
 
   static const locale = Locale('en', 'US');
-  static const appName = 'Getx Template';
+  static const appName = 'GetX Template';
 
   static const String email = 'Email';
   static const String password = 'Password';
